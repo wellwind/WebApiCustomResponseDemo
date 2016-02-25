@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCustomResponseDemo", "WebApiCustomResponseDemo\WebApiCustomResponseDemo.csproj", "{F8C62573-0FF0-4A3A-B729-E786A1E583D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCustomResponseDemo.Tests", "WebApiCustomResponseDemo.Tests\WebApiCustomResponseDemo.Tests.csproj", "{E906CB52-CCEA-4EAA-A314-2FB8C68C98FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8C62573-0FF0-4A3A-B729-E786A1E583D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C62573-0FF0-4A3A-B729-E786A1E583D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C62573-0FF0-4A3A-B729-E786A1E583D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C62573-0FF0-4A3A-B729-E786A1E583D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E906CB52-CCEA-4EAA-A314-2FB8C68C98FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E906CB52-CCEA-4EAA-A314-2FB8C68C98FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E906CB52-CCEA-4EAA-A314-2FB8C68C98FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E906CB52-CCEA-4EAA-A314-2FB8C68C98FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 07f48e26-d9a4-4f2b-97e4-891922e1d2c2
+	EndGlobalSection
+EndGlobal
